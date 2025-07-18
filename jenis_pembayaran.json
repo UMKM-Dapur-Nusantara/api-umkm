@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "kode": "CASH",
+    "nama": "Tunai",
+    "deskripsi": "Pembayaran langsung menggunakan uang tunai.",
+    "status": "aktif"
+  },
+  {
+    "id": 2,
+    "kode": "TRANSFER",
+    "nama": "Transfer Bank",
+    "deskripsi": "Pembayaran melalui transfer bank manual atau virtual account.",
+    "status": "aktif"
+  },
+  {
+    "id": 3,
+    "kode": "QRIS",
+    "nama": "QRIS",
+    "deskripsi": "Pembayaran digital menggunakan QRIS.",
+    "status": "aktif"
+  },
+  {
+    "id": 4,
+    "kode": "EWALLET",
+    "nama": "E-Wallet",
+    "deskripsi": "Pembayaran melalui dompet digital seperti OVO, GoPay, Dana, dll.",
+    "status": "aktif"
+  },
+  {
+    "id": 5,
+    "kode": "DEBIT",
+    "nama": "Kartu Debit",
+    "deskripsi": "Pembayaran menggunakan kartu debit di mesin EDC.",
+    "status": "aktif"
+  },
+  {
+    "id": 6,
+    "kode": "KREDIT",
+    "nama": "Kartu Kredit",
+    "deskripsi": "Pembayaran menggunakan kartu kredit.",
+    "status": "aktif"
+  },
+  {
+    "id": 7,
+    "kode": "TEMPO",
+    "nama": "Pembayaran Tempo",
+    "deskripsi": "Pembayaran ditunda sesuai kesepakatan.",
+    "status": "nonaktif"
+  }
+]
