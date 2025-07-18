@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "kode": "PENDING",
+    "nama": "Menunggu Pembayaran",
+    "deskripsi": "Transaksi sudah dibuat tapi belum dibayar.",
+    "warna": "#FFA500",
+    "status": "aktif"
+  },
+  {
+    "id": 2,
+    "kode": "PAID",
+    "nama": "Lunas",
+    "deskripsi": "Pembayaran sudah diterima.",
+    "warna": "#28A745",
+    "status": "aktif"
+  },
+  {
+    "id": 3,
+    "kode": "PARTIAL",
+    "nama": "Pembayaran Sebagian",
+    "deskripsi": "Pembayaran sebagian, masih ada sisa tagihan.",
+    "warna": "#17A2B8",
+    "status": "aktif"
+  },
+  {
+    "id": 4,
+    "kode": "FAILED",
+    "nama": "Gagal",
+    "deskripsi": "Pembayaran gagal diproses.",
+    "warna": "#DC3545",
+    "status": "aktif"
+  },
+  {
+    "id": 5,
+    "kode": "REFUNDED",
+    "nama": "Dikembalikan",
+    "deskripsi": "Pembayaran sudah dikembalikan ke pelanggan.",
+    "warna": "#6C757D",
+    "status": "aktif"
+  },
+  {
+    "id": 6,
+    "kode": "CANCELLED",
+    "nama": "Dibatalkan",
+    "deskripsi": "Transaksi dibatalkan sebelum pembayaran.",
+    "warna": "#343A40",
+    "status": "aktif"
+  }
+]
